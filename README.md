@@ -1,3 +1,5 @@
+![Python checks](https://github.com/leakquicked/osint-footprint/actions/workflows/python-checks.yml/badge.svg)
+
 # OSINT Footprint
 
 Identify manually supplied public-reference strings without scraping.
